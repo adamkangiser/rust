@@ -11,8 +11,3 @@ This project demonstrates a basic implementation of cryptographic hashing in Rus
 - Rust programming language
 - Cargo package manager
 
-## Installation
-First, ensure that you have Rust and Cargo installed on your system. If not, follow the instructions on the [official Rust website](https://www.rust-lang.org/learn/get-started).
-
-## Usage
-1. Clone the repository:
